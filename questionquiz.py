@@ -34,4 +34,4 @@ if guess==answer[ques_num]:
 else:
     print("wrong answer", [ques_num])
 
-print("your final score is : {score}/len{(questions)}"
+print(f"your final score is : {score}/len{questions}")
